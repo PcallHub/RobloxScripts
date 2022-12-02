@@ -15,7 +15,7 @@ local BloxFruit = {
 local RaceClicker = 9285238704
 local Evade = 9872472334
 local Arsenal = 286090429
-local Infetion = 5985232436
+local Infection = 5985232436
 
 if Supported == BloxFruit.First or Supported == BloxFruit.Second or Supported == BloxFruit.Third then
 
