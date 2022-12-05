@@ -16,6 +16,7 @@ local RaceClicker = 9285238704
 local Evade = 9872472334
 local Arsenal = 286090429
 local Infection = 5985232436
+local MMM = 7205641391
 
 if Supported == BloxFruit.First or Supported == BloxFruit.Second or Supported == BloxFruit.Third then
 
@@ -37,9 +38,12 @@ elseif Supported == Infection then
 
 Games("https://raw.githubusercontent.com/PcallHub/RobloxScripts/main/Games/Infectious_Smile")
 
+elseif Supported == MMM then
+
+Games("https://raw.githubusercontent.com/PcallHub/RobloxScripts/main/Games/AutoPlay.lua")
+
 else
 game.Players.LocalPlayer:Kick([[
-- Not Supported -
 Discord : discord.gg/8W8T6vcZZG
 ]])
 end
